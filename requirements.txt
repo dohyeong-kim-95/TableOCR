@@ -1,0 +1,24 @@
+# Core PDF Processing
+pdfplumber>=0.10.0
+PyMuPDF>=1.23.0
+
+# OCR Engine
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Optional: Data manipulation and output formatting
+pandas>=2.0.0
+
+# Development Dependencies (optional, uncomment for development)
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.5.0
